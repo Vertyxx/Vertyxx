@@ -1,5 +1,5 @@
 
-# I like to code. Sometimes I even get paid for it
+I like to code. Sometimes I even get paid for it
 
 
 # Worked with:
